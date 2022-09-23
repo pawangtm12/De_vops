@@ -1,2 +1,2 @@
 # De_vops
-learning git from devops
+learning git from devops.
