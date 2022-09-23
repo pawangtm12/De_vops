@@ -1,2 +1,2 @@
 # De_vops class
-learning git
+learning git from github
